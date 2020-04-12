@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit-Java</string>
+    <string name="get_anekdots">Get anekdots</string>
+</resources>
